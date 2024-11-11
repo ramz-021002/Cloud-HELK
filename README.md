@@ -1,6 +1,5 @@
 # Cloud-HELK
 ![Alt text](docs/architecture/arch.png)
-Check out the Cloud Helk repository 
 Clone the repository and start HUNTING
 ```
 git clone https://github.com/ramz-021002/Cloud-HELK.git
