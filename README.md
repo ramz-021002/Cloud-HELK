@@ -1,3 +1,4 @@
+![Alt text](docs/architecture/arch.png)
 # Cloud-HELK
 Check out the Cloud Helk repository 
 Clone the repository and start HUNTING
